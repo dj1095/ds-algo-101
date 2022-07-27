@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 public class RandomizedQuickSort {
-
+    private static  final  Random random = new Random();
     private int partition(List<Integer> numbers, int low, int high) {
         int pivot = numbers.get(high);
         int i = low - 1;
@@ -20,7 +20,6 @@ public class RandomizedQuickSort {
     }
 
     private Integer random_partition(List<Integer> numbersList, int low, int high) {
-        Random random = new Random();
         int randomIndex = random.nextInt((high - low)) + low;
         Collections.swap(numbersList, randomIndex, high);
         return partition(numbersList, low, high);
