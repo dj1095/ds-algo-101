@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Main {
+public class SortingTest {
     private static final int LIST_SIZE = 30000000;
 
     public static void main(String[] args) {
