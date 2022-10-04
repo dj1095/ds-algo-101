@@ -1,4 +1,4 @@
-package edu.uta.daa.approaches;
+package edu.uta.dsnalgo.approaches;
 //https://leetcode.com/problems/jump-game/description/
 // Valley Jump Approach
 //Time Complexity - O(n)

@@ -1,4 +1,4 @@
-package edu.uta.daa.sorting.quickSort;
+package edu.uta.dsnalgo.sorting.quickSort;
 
 import java.util.Collections;
 import java.util.List;

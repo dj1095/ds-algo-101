@@ -1,4 +1,4 @@
-package edu.uta.daa.fibonacci;
+package edu.uta.dsnalgo.fibonacci;
 
 import java.util.ArrayList;
 import java.util.List;

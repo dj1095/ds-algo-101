@@ -1,6 +1,6 @@
-package edu.uta.daa.main;
+package edu.uta.dsnalgo.main;
 
-import edu.uta.daa.sorting.quickSort.RandomizedQuickSort;
+import edu.uta.dsnalgo.sorting.quickSort.RandomizedQuickSort;
 
 import java.util.ArrayList;
 import java.util.List;

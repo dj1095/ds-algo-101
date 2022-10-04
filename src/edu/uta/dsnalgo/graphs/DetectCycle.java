@@ -1,4 +1,4 @@
-package edu.uta.daa.graphs;
+package edu.uta.dsnalgo.graphs;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package edu.uta.daa.graphs;
+package edu.uta.dsnalgo.graphs;
 
 //https://leetcode.com/problems/number-of-islands/
 //Graph Traversals
